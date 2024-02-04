@@ -1,2 +1,10 @@
-# spring-rest-api
-Spring Boot REST API
+# Spring Boot REST API
+
+### Build
+`
+./gradlew clean build
+`
+### Run Locally
+`
+./gradlew bootRun
+`
